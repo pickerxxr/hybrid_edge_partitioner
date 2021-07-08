@@ -537,3 +537,7 @@ void HepPartitioner::split()
     	compute_stats();
     }
 }
+
+void HepPartitioner::assign_blocks(vid_t u, v_id v){
+	pass
+}
