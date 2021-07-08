@@ -1,11 +1,11 @@
-cmake_minimum_required (VERSION 2.8)
+# cmake_minimum_required (VERSION 2.8)
 project (edgepart)
 
 set(CMAKE_VERBOSE_MAKEFILE off)
 
-# find_package (glog REQUIRED)
-# find_package (gflags REQUIRED)
-# find_package (Boost REQUIRED)
+find_package (glog REQUIRED)
+find_package (gflags REQUIRED)
+find_package (Boost REQUIRED)
 
 # SET a default build type if none was specified
 if(NOT CMAKE_BUILD_TYPE)

@@ -247,7 +247,9 @@ void HepPartitioner::random_streaming(){
 	}
 }
 
-
+/*
+hdrf_sreaming: almost the same; sth changed...
+*/
 void HepPartitioner::hdrf_streaming(){
 
 	LOG(INFO) << "Streaming using HDRF algorithm." << std::endl;
@@ -447,6 +449,9 @@ void HepPartitioner::partition_in_memory(){
 }
 
 
+/*
+compute_partition_score: all the same; needn't change
+*/
 double HepPartitioner::compute_partition_score(vid_t u, vid_t v, int bucket_id) {
 	if (occupied[bucket_id] >= capacity){
 //		cout << "partition " << bucket_id << " is full with " << occupied[bucket_id] << endl;
@@ -473,6 +478,10 @@ double HepPartitioner::compute_partition_score(vid_t u, vid_t v, int bucket_id) 
 	return score;
 }
 
+
+/* 
+best_scored_partition: all the same; needn't change
+*/
 int HepPartitioner::best_scored_partition(vid_t u, vid_t v) {
 	double best_score = -1.0;
 	int best_partition = 0;
