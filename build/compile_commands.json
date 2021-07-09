@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/root/partition/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6    -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/main.cpp.o -c /root/partition/hybrid_edge_partitioner/src/main.cpp",
+  "file": "/root/partition/hybrid_edge_partitioner/src/main.cpp"
+},
+{
+  "directory": "/root/partition/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6    -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/util.cpp.o -c /root/partition/hybrid_edge_partitioner/src/util.cpp",
+  "file": "/root/partition/hybrid_edge_partitioner/src/util.cpp"
+},
+{
+  "directory": "/root/partition/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6    -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/graph.cpp.o -c /root/partition/hybrid_edge_partitioner/src/graph.cpp",
+  "file": "/root/partition/hybrid_edge_partitioner/src/graph.cpp"
+},
+{
+  "directory": "/root/partition/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6    -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/hep_partitioner.cpp.o -c /root/partition/hybrid_edge_partitioner/src/hep_partitioner.cpp",
+  "file": "/root/partition/hybrid_edge_partitioner/src/hep_partitioner.cpp"
+},
+{
+  "directory": "/root/partition/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6    -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/ne_graph.cpp.o -c /root/partition/hybrid_edge_partitioner/src/ne_graph.cpp",
+  "file": "/root/partition/hybrid_edge_partitioner/src/ne_graph.cpp"
+},
+{
+  "directory": "/root/partition/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6    -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/ne_partitioner.cpp.o -c /root/partition/hybrid_edge_partitioner/src/ne_partitioner.cpp",
+  "file": "/root/partition/hybrid_edge_partitioner/src/ne_partitioner.cpp"
+},
+{
+  "directory": "/root/partition/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6    -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/Vertex2EdgePart.cpp.o -c /root/partition/hybrid_edge_partitioner/src/Vertex2EdgePart.cpp",
+  "file": "/root/partition/hybrid_edge_partitioner/src/Vertex2EdgePart.cpp"
+},
+{
+  "directory": "/root/partition/hybrid_edge_partitioner/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6    -Wall -g -std=c++11 -pthread -fopenmp -g -o CMakeFiles/main.dir/src/conversions.cpp.o -c /root/partition/hybrid_edge_partitioner/src/conversions.cpp",
+  "file": "/root/partition/hybrid_edge_partitioner/src/conversions.cpp"
+}
+]

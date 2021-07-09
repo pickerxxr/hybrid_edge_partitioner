@@ -1,0 +1,3 @@
+/root/partition/hybrid_edge_partitioner/build/CMakeFiles/rebuild_cache.dir
+/root/partition/hybrid_edge_partitioner/build/CMakeFiles/main.dir
+/root/partition/hybrid_edge_partitioner/build/CMakeFiles/edit_cache.dir

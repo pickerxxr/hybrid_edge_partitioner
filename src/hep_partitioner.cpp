@@ -473,6 +473,7 @@ double HepPartitioner::compute_partition_score(vid_t u, vid_t v, int bucket_id) 
 	return score;
 }
 
+// what about this
 int HepPartitioner::best_scored_partition(vid_t u, vid_t v) {
 	double best_score = -1.0;
 	int best_partition = 0;
